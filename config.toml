@@ -1,6 +1,6 @@
 baseURL = "https://wisedog.net/"
 languageCode = "ko-kr"
-title = "김종하, 패르소나"
+title = "김종하, 페르소나"
 theme = "cactus"
 
 [params]
