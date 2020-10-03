@@ -1,0 +1,16 @@
+[[list]]
+name = "개발 블로그"
+url = "https://dev.wisedog.net/"
+desc="소프트웨어 개발 관련 내용이 있습니다"
+
+[[list]]
+name = "[출판] 역사 속의 소프트웨어 오류"
+url = "http://www.acornpub.co.kr/book/historic-software-errors"
+desc = "소프트웨어 오류로 발생한 역사적 사건들을 모아 책으로 출간하였습니다"
+
+
+[[list]]
+name = "[Beta 연재 중] 북방십자군 이야기"
+url = "http://northern-crusades.github.io/"
+desc = "십자군의 일파인 북방십자군에 대한 글입니다"
+

@@ -1,0 +1,27 @@
+baseURL = "https://wisedog.net/"
+languageCode = "ko-kr"
+title = "김종하, 패르소나"
+theme = "cactus"
+
+[params]
+description = """
+  소프트웨어 개발자이자 (부끄럽지만) 글 쓰는 사람. 개발분야는 크게 가리지는 않지만, 주로 웹 분야에서 일합니다. 백엔드 쪽을 주로 하며 React.js까지 하지만 스타일쪽이 능숙하지 못해서 정말 급할때만 합니다.
+  최근엔 Node.js/Typescript를 주로 사용하고 있으며 Python, C++ 프로덕션 경험이 있으며 Go도 사용 가능합니다.
+  3대 퍼블릭 클라우드 AWS, GCP, Azure 모두 프로덕션 사용 경험이 있습니다.
+  현재는 스타트업 셀러노트 CTO로 일하고 있으며, 미숙하지만 계속해서 역사 글쓰기에 도전하고 있습니다. 소프트웨어 개발은 별도의 사이트(https://dev.wisedog.net)에 적습니다.
+"""
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
