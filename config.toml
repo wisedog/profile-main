@@ -10,6 +10,7 @@ description = """
   3대 퍼블릭 클라우드 AWS, GCP, Azure 모두 프로덕션 사용 경험이 있습니다.
   현재는 스타트업 셀러노트 CTO로 일하고 있으며, 미숙하지만 계속해서 역사 글쓰기에 도전하고 있습니다. 소프트웨어 개발은 별도의 사이트(https://dev.wisedog.net)에 적습니다.
 """
+googleAnalytics = "UA-179542524-1"
 
 [[menu.main]]
 name = "Home"
