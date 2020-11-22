@@ -8,9 +8,12 @@ name = "[출판] 역사 속의 소프트웨어 오류"
 url = "http://www.acornpub.co.kr/book/historic-software-errors"
 desc = "소프트웨어 오류로 발생한 역사적 사건들을 모아 책으로 출간하였습니다"
 
+[[list]]
+name = "[연재 중] 부트캠퍼를 위한 컴퓨터 과학"
+url = "https://csbooks.wisedog.net/"
+desc = "부트캠퍼를 위한 컴퓨터 과학 기초를 정리 중. 언제 완성될지는 잘..."
 
 [[list]]
 name = "[Beta 연재 중] 북방십자군 이야기"
-url = "http://northern-crusades.github.io/"
+url = "https://northern-crusades.github.io/"
 desc = "십자군의 일파인 북방십자군에 대한 글입니다"
-
