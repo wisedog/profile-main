@@ -1,0 +1,19 @@
+<div id="book">
+  
+</div>
+<script>
+(function() {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if(xhr.readyState == 4 && xhr.status == 200) {
+      var resp = xhr.response;
+      var aaa = '<img src="' + resp.image +'" /><p>' + resp.name + '</p>';
+      console.log(aaa);
+      document.getElementById('book').innerHTML = '<img src="' + resp.image +'" /><p>' + resp.name + '</p>';
+    }
+  };
+  xhr.responseType = 'json';
+  xhr.open('GET', 'https://run.mocky.io/v3/e11d702e-d27c-4c43-9337-5457e6df0f7b', true);
+  xhr.send()
+})();
+</script>
